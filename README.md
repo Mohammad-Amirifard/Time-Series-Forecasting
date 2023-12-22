@@ -1,12 +1,13 @@
 
 # Rpository Structure:
+```
 - 📦 Time Series
   |- 📄 README.md        #this file
   |- 📂 data             #local data folder
   |- 📂 Notebooks        #Here you can see a Main.ipynb which the main file. You can run it on Google Colab
   |- 📂 Submissions      #Here you can see a zip file which is appropraite to upload in Coda Lab
   |- 📂 Report           #Here you can see our report.
-
+```
 
 
 # Project Detail
