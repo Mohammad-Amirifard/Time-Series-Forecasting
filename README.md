@@ -2,11 +2,11 @@
 # Rpository Structure:
 ```
 - 📦 Univariate Time Series Forcasting
-  |- 📄 README.md        #this file
-  |- 📂 data             #local data folder
-  |- 📂 Notebooks        #Here you can see a Main.ipynb which the main file. You can run it on Google Colab
+  |- 📄 README.md        #Guide file
+  |- 📂 data             #Here you can see datasets.
+  |- 📂 Notebooks        #Here you can see a Main.ipynb which is the main file. You can run it on Google Colab
   |- 📂 Submissions      #Here you can see a zip file which is appropraite to upload in Coda Lab
-  |- 📂 Report           #Here you can see our report.
+  |- 📂 Report           #Here you can see a complete report of what have done in Main.ipynb
 ```
 
 
