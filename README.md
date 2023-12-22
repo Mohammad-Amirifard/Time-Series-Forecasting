@@ -1,7 +1,7 @@
 
 # Rpository Structure:
 ```
-- 📦 Time Series
+- 📦 Univariate Time Series Forcasting
   |- 📄 README.md        #this file
   |- 📂 data             #local data folder
   |- 📂 Notebooks        #Here you can see a Main.ipynb which the main file. You can run it on Google Colab
